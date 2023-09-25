@@ -2,7 +2,7 @@
  
 This is a tox file to work with SuperDirt using TouchDesigner.
 SuperDirt runs on SuperCollider as an OSC-based synthesizer.
-So you can use TouchDesigner and this tox to send OSCs and play sounds with the protocol for SuperDirt.
+So you can use TouchDesigner and this tox to send OSCs and play sounds with the protocol for SuperDirt directly.
 
 ## Test Environment
 * TouchDesigner 2023.10130 (Mac/Win)
